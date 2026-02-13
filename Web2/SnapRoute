@@ -1,0 +1,7 @@
+SnapRoute
+Keşfetmeye başla. Dünyanı paylaş.
+fetch failed
+[0] (500,488)<input class='h-11 w-full rounded-lg bg-neutral-900/50 border border-neutral-800 pl-10 pr-4 text-sm text-white placeholder:text-neutral-600 focus:border-neutral-600 focus:bg-neutral-900/80 focus:outline-none focus:ring-0 transition-all' placeholder='E-posta adresi' />
+[1] (500,554)<input class='h-11 w-full rounded-lg bg-neutral-900/50 border border-neutral-800 pl-10 pr-4 text-sm text-white placeholder:text-neutral-600 focus:border-neutral-600 focus:bg-neutral-900/80 focus:outline-none focus:ring-0 transition-all' placeholder='Şifre' />
+[2] (500,628)<button class='group relative flex h-11 w-full items-center justify-center gap-2 overflow-hidden rounded-lg px-4 text-sm font-medium transition-all duration-300 bg-white text-black hover:bg-neutral-200'>Giriş Yap />
+[3] (500,690)<button class='group relative flex h-11 w-full items-center justify-center gap-2 overflow-hidden rounded-lg px-4 text-sm font-medium transition-all duration-300 border border-neutral-800 bg-transparent text-neutral-400 hover:border-neutral-700 hover:text-white'>Hesap Oluştur />
