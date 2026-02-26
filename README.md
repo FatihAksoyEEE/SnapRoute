@@ -18,7 +18,7 @@ SnapRoute, gezginlerin rotalarını, deneyimlerini ve seyahat anılarını payla
 
 
 
-*(Buraya uygulamanın ana akışını ve harita görünümünü içeren 2-3 ekran görüntüsü eklemek projeyi çok canlı gösterir bro!)*
+*eklenecek*
 
 ---
 
